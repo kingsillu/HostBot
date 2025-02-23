@@ -2,12 +2,12 @@
   "bot-account": {
     "username": "SilluBot45",
     "password": "",
-    "type": "microsoft"
+    "type": "mojang"
   },
 
   "server": {
-    "ip": "brotula.aternos.host",
-    "port": 36302,
+    "ip": "kingsillu.minefort.com",
+    "port": 19132,
     "version": "1.12.1"
   },
   
