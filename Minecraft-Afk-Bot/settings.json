@@ -7,7 +7,7 @@
 
   "server": {
     "ip": "kingsillu.minefort.com",
-    "port": 19132,
+    "port": 25565,
     "version": "1.12.1"
   },
   
